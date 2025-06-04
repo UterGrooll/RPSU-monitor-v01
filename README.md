@@ -34,7 +34,8 @@ MGS-4 — это магистральная цифровая система пе
 * ✅ Фоновая работа и сворачивание в системный трей
 
 Журнал данных хранит всебе данные с выставленным периодом опроса
-![image](https://github.com/user-attachments/assets/fd3f326d-2e05-432f-8157-45e173c20549)
+![2](https://github.com/user-attachments/assets/5b074fe3-a2d2-4e66-bdda-d01dedb9dcfe)
+
 
 ---
 
