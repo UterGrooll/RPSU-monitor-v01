@@ -48,7 +48,7 @@ MGS-4 — это магистральная цифровая система пе
 5. При включённой опции UTC — создаётся отдельный файл.
 6. При потере связи программа автоматически повторяет попытки.
 
-![6](https://github.com/user-attachments/assets/41d3001c-5321-493c-a667-60fbaee219e6)
+![6](https://github.com/user-attachments/assets/1c64c204-8ba6-4dcb-9f50-fc0fc1b44d76)
 
 ---
 
