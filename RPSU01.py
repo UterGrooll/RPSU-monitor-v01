@@ -527,6 +527,5 @@ def create_gui():
 
     window.mainloop()
 
-
 if __name__ == "__main__":
     create_gui()
